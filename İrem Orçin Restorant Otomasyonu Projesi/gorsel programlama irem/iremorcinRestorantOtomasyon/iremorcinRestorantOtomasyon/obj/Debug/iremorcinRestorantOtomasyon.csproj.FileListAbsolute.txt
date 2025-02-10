@@ -1,0 +1,68 @@
+C:\Users\User\source\repos\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.Anasayfa.resources
+C:\Users\User\source\repos\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.Properties.Resources.resources
+C:\Users\User\source\repos\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.csproj.GenerateResource.cache
+C:\Users\User\source\repos\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.AnasayfaForm.resources
+C:\Users\User\source\repos\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\bin\Debug\iremorcinRestorantOtomasyon.exe.config
+C:\Users\User\source\repos\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\bin\Debug\iremorcinRestorantOtomasyon.exe
+C:\Users\User\source\repos\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\bin\Debug\iremorcinRestorantOtomasyon.pdb
+C:\Users\User\source\repos\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.exe
+C:\Users\User\source\repos\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.pdb
+C:\Users\User\source\repos\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.masalarformu.resources
+C:\Users\User\source\repos\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.menuformu.resources
+C:\Users\User\source\repos\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.satisformu.resources
+C:\Users\User\source\repos\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.stokekrani.resources
+C:\Users\User\source\repos\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.siparisformu.resources
+C:\Users\User\source\repos\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.zraporformu.resources
+C:\Users\Okan\Desktop\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\bin\Debug\iremorcinRestorantOtomasyon.exe.config
+C:\Users\Okan\Desktop\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\bin\Debug\iremorcinRestorantOtomasyon.exe
+C:\Users\Okan\Desktop\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\bin\Debug\iremorcinRestorantOtomasyon.pdb
+C:\Users\Okan\Desktop\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Okan\Desktop\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.Anasayfa.resources
+C:\Users\Okan\Desktop\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.AnasayfaForm.resources
+C:\Users\Okan\Desktop\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.masalarformu.resources
+C:\Users\Okan\Desktop\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.menuformu.resources
+C:\Users\Okan\Desktop\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.Properties.Resources.resources
+C:\Users\Okan\Desktop\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.satisformu.resources
+C:\Users\Okan\Desktop\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.siparisformu.resources
+C:\Users\Okan\Desktop\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.stokekrani.resources
+C:\Users\Okan\Desktop\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.zraporformu.resources
+C:\Users\Okan\Desktop\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.csproj.GenerateResource.cache
+C:\Users\Okan\Desktop\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Desktop\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.exe
+C:\Users\Okan\Desktop\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.pdb
+C:\Users\Okan\Desktop\Yeni klasör\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\bin\Debug\iremorcinRestorantOtomasyon.exe.config
+C:\Users\Okan\Desktop\Yeni klasör\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\bin\Debug\iremorcinRestorantOtomasyon.exe
+C:\Users\Okan\Desktop\Yeni klasör\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\bin\Debug\iremorcinRestorantOtomasyon.pdb
+C:\Users\Okan\Desktop\Yeni klasör\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Okan\Desktop\Yeni klasör\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.Anasayfa.resources
+C:\Users\Okan\Desktop\Yeni klasör\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.AnasayfaForm.resources
+C:\Users\Okan\Desktop\Yeni klasör\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.masalarformu.resources
+C:\Users\Okan\Desktop\Yeni klasör\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.menuformu.resources
+C:\Users\Okan\Desktop\Yeni klasör\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.Properties.Resources.resources
+C:\Users\Okan\Desktop\Yeni klasör\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.satisformu.resources
+C:\Users\Okan\Desktop\Yeni klasör\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.siparisformu.resources
+C:\Users\Okan\Desktop\Yeni klasör\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.stokekrani.resources
+C:\Users\Okan\Desktop\Yeni klasör\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.zraporformu.resources
+C:\Users\Okan\Desktop\Yeni klasör\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.csproj.GenerateResource.cache
+C:\Users\Okan\Desktop\Yeni klasör\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Desktop\Yeni klasör\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.exe
+C:\Users\Okan\Desktop\Yeni klasör\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.pdb
+C:\Users\User\OneDrive\Masaüstü\İrem Orçin Restorant Otomasyonu Projesi\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\bin\Debug\iremorcinRestorantOtomasyon.exe.config
+C:\Users\User\OneDrive\Masaüstü\İrem Orçin Restorant Otomasyonu Projesi\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\bin\Debug\iremorcinRestorantOtomasyon.exe
+C:\Users\User\OneDrive\Masaüstü\İrem Orçin Restorant Otomasyonu Projesi\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\bin\Debug\iremorcinRestorantOtomasyon.pdb
+C:\Users\User\OneDrive\Masaüstü\İrem Orçin Restorant Otomasyonu Projesi\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\İrem Orçin Restorant Otomasyonu Projesi\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.Anasayfa.resources
+C:\Users\User\OneDrive\Masaüstü\İrem Orçin Restorant Otomasyonu Projesi\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.AnasayfaForm.resources
+C:\Users\User\OneDrive\Masaüstü\İrem Orçin Restorant Otomasyonu Projesi\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.masalarformu.resources
+C:\Users\User\OneDrive\Masaüstü\İrem Orçin Restorant Otomasyonu Projesi\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.menuformu.resources
+C:\Users\User\OneDrive\Masaüstü\İrem Orçin Restorant Otomasyonu Projesi\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.Properties.Resources.resources
+C:\Users\User\OneDrive\Masaüstü\İrem Orçin Restorant Otomasyonu Projesi\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.satisformu.resources
+C:\Users\User\OneDrive\Masaüstü\İrem Orçin Restorant Otomasyonu Projesi\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.siparisformu.resources
+C:\Users\User\OneDrive\Masaüstü\İrem Orçin Restorant Otomasyonu Projesi\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.stokekrani.resources
+C:\Users\User\OneDrive\Masaüstü\İrem Orçin Restorant Otomasyonu Projesi\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.zraporformu.resources
+C:\Users\User\OneDrive\Masaüstü\İrem Orçin Restorant Otomasyonu Projesi\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\İrem Orçin Restorant Otomasyonu Projesi\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\İrem Orçin Restorant Otomasyonu Projesi\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.exe
+C:\Users\User\OneDrive\Masaüstü\İrem Orçin Restorant Otomasyonu Projesi\gorsel programlama irem\iremorcinRestorantOtomasyon\iremorcinRestorantOtomasyon\obj\Debug\iremorcinRestorantOtomasyon.pdb
